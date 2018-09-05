@@ -13,7 +13,13 @@ public class Hello {
 		System.out.println("E");
 		System.out.println("N");
 		System.out.println("K");
-		System.out.println("Y");
+		System.out.println("A");
+		System.out.println("T");
+		System.out.println("A");
+		System.out.println("D");
+		System.out.println("R");
+		System.out.println("I");
+
 		System.out.println("0");
 		System.out.println("5");
 		System.out.println("3");
