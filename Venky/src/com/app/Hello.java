@@ -15,10 +15,6 @@ public class Hello {
 		System.out.println("K");
 		System.out.println("A");
 		System.out.println("T");
-	/*	System.out.println("A");
-		System.out.println("D");
-		System.out.println("R");
-		System.out.println("I");*/
 
 		System.out.println("0");
 		System.out.println("5");
